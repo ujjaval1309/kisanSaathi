@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646803863913",
+    "project_id": "kisaansaathi-ebcee",
+    "storage_bucket": "kisaansaathi-ebcee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646803863913:android:9c3647ef3c0a1f3ab765f8",
+        "android_client_info": {
+          "package_name": "com.example.kisaansaathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWO_jg45FnYsvxZ76EV1T_DX_F6iiG54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
